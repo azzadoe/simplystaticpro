@@ -1,0 +1,17 @@
+/author/simplystaticpro/
+/category/uncategorized/feed/
+/comments/feed/
+/feed/
+/hello-world/feed/
+/sample-page/feed/
+/wp-admin/
+/wp-content/themes/twentytwentyfive/style.css
+/wp-includes/blocks/navigation/style.min.css
+/wp-includes/css/dist/block-library/common.min.css
+/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js
+/wp-includes/js/dist/script-modules/interactivity/index.min.js
+/wp-json/
+/wp-json/oembed/1.0/embed
+/wp-json/wp/v2/categories/1
+/wp-json/wp/v2/pages/2
+/wp-json/wp/v2/posts/1
